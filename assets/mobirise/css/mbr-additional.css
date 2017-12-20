@@ -586,7 +586,7 @@ a:hover {
   border-radius: 100px;
 }
 #scrollToTop a {
-  background: #444444;
+  background: #ffda73;
   opacity: .5;
 }
 #scrollToTop a:hover {
@@ -597,7 +597,7 @@ a:hover {
   position: absolute;
   height: 40%;
   top: 25%;
-  background: #ffffff;
+  background: #000000;
   width: 2px;
   left: calc(50% - 1px);
 }
@@ -605,8 +605,8 @@ a:hover {
   content: '';
   position: absolute;
   display: block;
-  border-top: 2px solid #ffffff;
-  border-right: 2px solid #ffffff;
+  border-top: 2px solid #000000;
+  border-right: 2px solid #000000;
   width: 40%;
   height: 40%;
   left: 30%;
@@ -618,12 +618,12 @@ a:hover {
   font-style: normal;
 }
 .mbr-arrow {
-  background-color: #444444;
+  background-color: #ffda73;
   opacity: .5;
   transition: .3s;
 }
 .mbr-arrow a {
-  color: #ffffff;
+  color: #000000;
 }
 .mbr-arrow:hover {
   opacity: .7;
